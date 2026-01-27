@@ -1,0 +1,15 @@
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.AssemblyInfoInputs.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.AssemblyInfo.cs
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.csproj.CoreCompileInputs.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.sourcelink.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\bin\Debug\net10.0\Doc1.exe
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\bin\Debug\net10.0\Doc1.deps.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\bin\Debug\net10.0\Doc1.runtimeconfig.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\bin\Debug\net10.0\Doc1.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\bin\Debug\net10.0\Doc1.pdb
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\refint\Doc1.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.pdb
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\Doc1.genruntimeconfig.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Doc1\obj\Debug\net10.0\ref\Doc1.dll

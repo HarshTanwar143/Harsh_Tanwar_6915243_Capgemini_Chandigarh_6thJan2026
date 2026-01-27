@@ -37,6 +37,37 @@
             }
 
             warranty.PrintWarrantyDetails();
+
+            // GENERIC
+            InventoryManager<PortableDevices> inventory = new InventoryManager<PortableDevices>();
+            inventory.AddItem(device);
+
+            Console.WriteLine("\n\nTotal devices in inventory :: " + inventory.Count());
+
+            // THREAD
+            StockMonitor.Monitor(device);
+
+            // EXTENSION CLASS
+            device.PrintQuickInfo();
+            Console.WriteLine("Is Premium Device :: " + device.IsPremium());
+
+            // DELEGATES
+            DeviceNotifier notifier = new DeviceNotifier();
+
+            notifier.Notify += DelegateHandlers.PriceAlert;
+            notifier.Notify += DelegateHandlers.StockAlert;
+
+            if (device.GetFinalPrice() < 30000)
+            {
+                notifier.Trigger("Device is available at discounted price!");
+            }
+
+            if (!device.IsInStock())
+            {
+                notifier.Trigger("Device is currently out of stock!");
+            }
+
+
             Console.ReadLine();
         }
     }

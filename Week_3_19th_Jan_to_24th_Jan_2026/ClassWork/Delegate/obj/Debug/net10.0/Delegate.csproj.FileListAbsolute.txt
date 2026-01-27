@@ -1,0 +1,15 @@
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\bin\Debug\net10.0\Delegate.exe
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\bin\Debug\net10.0\Delegate.deps.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\bin\Debug\net10.0\Delegate.runtimeconfig.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\bin\Debug\net10.0\Delegate.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\bin\Debug\net10.0\Delegate.pdb
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfoInputs.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.AssemblyInfo.cs
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.csproj.CoreCompileInputs.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.sourcelink.json
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\refint\Delegate.dll
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.pdb
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\Delegate.genruntimeconfig.cache
+E:\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\Week_3_19th_Jan_to_24th_Jan_2026\ClassWork\Delegate\obj\Debug\net10.0\ref\Delegate.dll

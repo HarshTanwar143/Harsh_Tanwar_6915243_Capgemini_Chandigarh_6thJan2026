@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_3_19th_Jan_to_24th_Jan_2026\\Day_2_20th_Jan_2026\\LuckyDrawNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B51BAD-1C0E-4862-B626-39572C34A713}|LuckyDrawNumbers.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_3_19th_jan_to_24th_jan_2026\\day_2_20th_jan_2026\\luckydrawnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B51BAD-1C0E-4862-B626-39572C34A713}|LuckyDrawNumbers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B51BAD-1C0E-4862-B626-39572C34A713}|LuckyDrawNumbers.csproj|e:\\capegemini_cu_sec3_netcoreazure_harsh_tanwar\\week_3_19th_jan_to_24th_jan_2026\\day_2_20th_jan_2026\\luckydrawnumbers\\luckynumberfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B51BAD-1C0E-4862-B626-39572C34A713}|LuckyDrawNumbers.csproj|solutionrelative:luckynumberfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuckyNumberFunctionality.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_3_19th_Jan_to_24th_Jan_2026\\Day_2_20th_Jan_2026\\LuckyDrawNumbers\\LuckyNumberFunctionality.cs",
+              "RelativeDocumentMoniker": "LuckyNumberFunctionality.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_3_19th_Jan_to_24th_Jan_2026\\Day_2_20th_Jan_2026\\LuckyDrawNumbers\\LuckyNumberFunctionality.cs",
+              "RelativeToolTip": "LuckyNumberFunctionality.cs",
+              "ViewState": "AgIAAAsAAADAzMzMzMwmwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:55:23.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_3_19th_Jan_to_24th_Jan_2026\\Day_2_20th_Jan_2026\\LuckyDrawNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Capegemini_CU_Sec3_NetCoreAzure_Harsh_Tanwar\\Week_3_19th_Jan_to_24th_Jan_2026\\Day_2_20th_Jan_2026\\LuckyDrawNumbers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAANDMzMzPzvwkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:51:45.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

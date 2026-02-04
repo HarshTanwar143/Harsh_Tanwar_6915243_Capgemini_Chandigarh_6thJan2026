@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CheckOrderOfInput2AndInput3/1.0.0": {
+        "runtime": {
+          "CheckOrderOfInput2AndInput3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckOrderOfInput2AndInput3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

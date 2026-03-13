@@ -22,6 +22,15 @@
             <th>
                 @Html.DisplayNameFor(model => model.BookQuantity)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishedYear)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -42,6 +51,15 @@
                     <a asp-action="Edit" asp-route-id="@item.BookId">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.BookId">Details</a> |
                     <a asp-action="Delete" asp-route-id="@item.BookId">Delete</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Publisher)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublishedYear)
                 </td>
             </tr>
         }

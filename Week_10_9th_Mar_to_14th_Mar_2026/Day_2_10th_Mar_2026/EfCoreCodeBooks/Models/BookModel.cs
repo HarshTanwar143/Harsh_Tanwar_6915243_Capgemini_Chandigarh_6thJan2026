@@ -11,7 +11,15 @@ namespace EfCoreCodeBooks.Models
         public int BookId { get; set; }
 
         public string BookName { get; set; }
+
         public int BookPrice { get; set; }
+
         public int BookQuantity { get; set; }
+
+        public string Author { get; set; }
+
+        public string Publisher { get; set; }
+
+        public int PublishedYear { get; set; }
     }
 }
